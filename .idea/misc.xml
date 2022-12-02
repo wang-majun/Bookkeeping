@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Marvin/Desktop/Programming/Android/AndroidCourse/Bookkeeping/app/src/main/res/layout/activity_change_nickname_activity.xml" value="0.20104166666666667" />
+        <entry key="..\:/Users/Marvin/Desktop/Programming/Android/AndroidCourse/Bookkeeping/app/src/main/res/layout/activity_change_pwd.xml" value="0.22291666666666668" />
+        <entry key="..\:/Users/Marvin/Desktop/Programming/Android/AndroidCourse/Bookkeeping/app/src/main/res/layout/activity_deal_record.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/Marvin/Desktop/Programming/Android/AndroidCourse/Bookkeeping/app/src/main/res/layout/activity_main.xml" value="0.30231143552311435" />
+        <entry key="..\:/Users/Marvin/Desktop/Programming/Android/AndroidCourse/Bookkeeping/app/src/main/res/layout/activity_main2.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Marvin/Desktop/Programming/Android/AndroidCourse/Bookkeeping/app/src/main/res/layout/activity_manage.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Marvin/Desktop/Programming/Android/AndroidCourse/Bookkeeping/app/src/main/res/layout/activity_manage_record.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/Marvin/Desktop/Programming/Android/AndroidCourse/Bookkeeping/app/src/main/res/layout/activity_record.xml" value="0.2" />
+        <entry key="..\:/Users/Marvin/Desktop/Programming/Android/AndroidCourse/Bookkeeping/app/src/main/res/layout/activity_register.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Marvin/Desktop/Programming/Android/AndroidCourse/Bookkeeping/app/src/main/res/layout/activity_search_record.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Marvin/Desktop/Programming/Android/AndroidCourse/Bookkeeping/app/src/main/res/layout/activity_user_center.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Marvin/Desktop/Programming/Android/AndroidCourse/Bookkeeping/app/src/main/res/layout/fragment_blank.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Marvin/Desktop/Programming/Android/AndroidCourse/Bookkeeping/app/src/main/res/layout/fragment_home.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Marvin/Desktop/Programming/Android/AndroidCourse/Bookkeeping/app/src/main/res/layout/fragment_user_center.xml" value="0.2" />
+        <entry key="..\:/Users/Marvin/Desktop/Programming/Android/AndroidCourse/Bookkeeping/app/src/main/res/layout/record_item_layout.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Marvin/Desktop/Programming/Android/AndroidCourse/Bookkeeping/app/src/main/res/layout/record_item_layout0.xml" value="0.1921875" />
+        <entry key="..\:/Users/Marvin/Desktop/Programming/Android/AndroidCourse/Bookkeeping/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25885416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
