@@ -1,4 +1,4 @@
-package cn.edu.usst.bookkeeping.View;
+package cn.edu.usst.bookkeeping.view;
 
 import android.animation.ValueAnimator;
 import android.content.Context;
@@ -13,7 +13,7 @@ import androidx.annotation.Nullable;
 
 import java.util.List;
 
-import cn.edu.usst.bookkeeping.Bean.PieModel;
+import cn.edu.usst.bookkeeping.model.PieModel;
 
 /**
  * 自定义饼状图 第一：可能需要绘制多个颜色的图

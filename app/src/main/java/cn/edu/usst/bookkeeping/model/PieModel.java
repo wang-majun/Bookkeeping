@@ -1,4 +1,4 @@
-package cn.edu.usst.bookkeeping.Bean;
+package cn.edu.usst.bookkeeping.model;
 
 
 public class PieModel {

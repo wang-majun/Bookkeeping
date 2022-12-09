@@ -14,9 +14,9 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
-import cn.edu.usst.bookkeeping.Activity.ChangePwdActivity;
-import cn.edu.usst.bookkeeping.Activity.MainActivity;
-import cn.edu.usst.bookkeeping.Bean.User;
+import cn.edu.usst.bookkeeping.activity.ChangePwdActivity;
+import cn.edu.usst.bookkeeping.activity.MainActivity;
+import cn.edu.usst.bookkeeping.bean.User;
 import cn.edu.usst.bookkeeping.R;
 
 //个人中心

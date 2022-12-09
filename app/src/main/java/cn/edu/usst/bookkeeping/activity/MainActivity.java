@@ -1,4 +1,4 @@
-package cn.edu.usst.bookkeeping.Activity;
+package cn.edu.usst.bookkeeping.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -12,8 +12,8 @@ import android.widget.Toast;
 import java.util.ArrayList;
 
 import cn.edu.usst.bookkeeping.R;
-import cn.edu.usst.bookkeeping.Bean.User;
-import cn.edu.usst.bookkeeping.DAO.DBHelper;
+import cn.edu.usst.bookkeeping.bean.User;
+import cn.edu.usst.bookkeeping.dao.DBHelper;
 
 //登录页面逻辑
 public class MainActivity extends AppCompatActivity {

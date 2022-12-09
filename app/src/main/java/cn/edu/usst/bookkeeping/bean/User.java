@@ -1,4 +1,4 @@
-package cn.edu.usst.bookkeeping.Bean;
+package cn.edu.usst.bookkeeping.bean;
 
 import android.os.Parcel;
 import android.os.Parcelable;

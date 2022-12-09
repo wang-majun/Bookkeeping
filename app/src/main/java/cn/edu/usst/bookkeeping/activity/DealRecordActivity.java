@@ -1,4 +1,4 @@
-package cn.edu.usst.bookkeeping.Activity;
+package cn.edu.usst.bookkeeping.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -18,11 +18,11 @@ import android.widget.Toast;
 import java.util.ArrayList;
 import java.util.List;
 
-import cn.edu.usst.bookkeeping.Bean.PieModel;
+import cn.edu.usst.bookkeeping.model.PieModel;
 import cn.edu.usst.bookkeeping.R;
-import cn.edu.usst.bookkeeping.Util.ColorRandom;
-import cn.edu.usst.bookkeeping.View.HistogramView;
-import cn.edu.usst.bookkeeping.View.PieChartView;
+import cn.edu.usst.bookkeeping.util.ColorRandom;
+import cn.edu.usst.bookkeeping.view.HistogramView;
+import cn.edu.usst.bookkeeping.view.PieChartView;
 
 //收支记录页面业务逻辑
 public class DealRecordActivity extends AppCompatActivity {

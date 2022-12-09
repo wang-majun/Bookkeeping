@@ -1,22 +1,19 @@
-package cn.edu.usst.bookkeeping.Activity;
+package cn.edu.usst.bookkeeping.activity;
 
 import android.content.DialogInterface;
 import android.content.Intent;
-import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
-import android.widget.TextView;
-import android.widget.Toast;
 
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 
 import java.util.ArrayList;
 
-import cn.edu.usst.bookkeeping.Bean.User;
-import cn.edu.usst.bookkeeping.DAO.DBHelper;
+import cn.edu.usst.bookkeeping.bean.User;
+import cn.edu.usst.bookkeeping.dao.DBHelper;
 import cn.edu.usst.bookkeeping.R;
 
 public class ChangePwdActivity extends AppCompatActivity {

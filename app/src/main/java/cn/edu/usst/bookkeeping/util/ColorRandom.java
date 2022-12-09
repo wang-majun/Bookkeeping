@@ -1,4 +1,4 @@
-package cn.edu.usst.bookkeeping.Util;
+package cn.edu.usst.bookkeeping.util;
 
 import java.util.ArrayList;
 import java.util.Random;

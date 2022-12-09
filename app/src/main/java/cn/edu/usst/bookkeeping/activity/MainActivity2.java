@@ -1,4 +1,4 @@
-package cn.edu.usst.bookkeeping.Activity;
+package cn.edu.usst.bookkeeping.activity;
 
 import android.os.Bundle;
 

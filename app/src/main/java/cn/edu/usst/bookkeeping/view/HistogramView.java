@@ -1,4 +1,4 @@
-package cn.edu.usst.bookkeeping.View;
+package cn.edu.usst.bookkeeping.view;
 
 import android.content.Context;
 import android.graphics.Canvas;

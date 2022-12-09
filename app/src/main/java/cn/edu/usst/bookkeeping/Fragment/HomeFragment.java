@@ -7,17 +7,15 @@ import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.AdapterView;
 import android.widget.ImageView;
-import android.widget.TextView;
 
 import java.util.ArrayList;
 
-import cn.edu.usst.bookkeeping.Activity.DealRecordActivity;
-import cn.edu.usst.bookkeeping.Activity.ManageRecordActivity;
-import cn.edu.usst.bookkeeping.Activity.RecordActivity;
-import cn.edu.usst.bookkeeping.Activity.SearchRecordActivity;
-import cn.edu.usst.bookkeeping.Bean.User;
+import cn.edu.usst.bookkeeping.activity.DealRecordActivity;
+import cn.edu.usst.bookkeeping.activity.ManageRecordActivity;
+import cn.edu.usst.bookkeeping.activity.RecordActivity;
+import cn.edu.usst.bookkeeping.activity.SearchRecordActivity;
+import cn.edu.usst.bookkeeping.bean.User;
 import cn.edu.usst.bookkeeping.R;
 
 //个人中心

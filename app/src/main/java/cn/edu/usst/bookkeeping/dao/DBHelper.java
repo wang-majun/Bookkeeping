@@ -1,4 +1,4 @@
-package cn.edu.usst.bookkeeping.DAO;
+package cn.edu.usst.bookkeeping.dao;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -7,7 +7,7 @@ import android.database.SQLException;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
-import cn.edu.usst.bookkeeping.Bean.User;
+import cn.edu.usst.bookkeeping.bean.User;
 
 public class DBHelper extends SQLiteOpenHelper {
     public static final String DB_NAME = "Test.db";
